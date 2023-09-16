@@ -78,7 +78,7 @@ export default function ModalVideo({
           >
             <div className="max-w-6xl mx-auto h-full flex items-center">
               <Dialog.Panel className="w-full max-h-full aspect-video bg-black overflow-hidden">
-                <iframe width="1280" height="720" src="https://www.youtube.com/embed/Q7s3yFKZML0" title="Cosmopole product" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="1280" height="720" src="https://www.youtube.com/embed/Q7s3yFKZML0" frameBorder={0} title="Cosmopole product" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen={true}></iframe>
               </Dialog.Panel>
             </div>
           </Transition.Child>

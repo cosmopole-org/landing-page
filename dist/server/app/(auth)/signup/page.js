@@ -265,7 +265,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 
 const metadata = {
-    title: "Sign Up - Open PRO",
+    title: "Sign Up - Cosmopole",
     description: "Page description"
 };
 
@@ -442,7 +442,7 @@ function SignUp() {
                                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                         className: "text-sm text-gray-500 text-center",
                                         children: [
-                                            "I agree to be contacted by Open PRO about this offer as per the Open PRO ",
+                                            "I agree to be contacted by Cosmopole about this offer as per the Cosmopole ",
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_link__WEBPACK_IMPORTED_MODULE_1___default()), {
                                                 href: "#",
                                                 className: "underline text-gray-400 hover:text-gray-200 hover:no-underline transition duration-150 ease-in-out",
@@ -466,7 +466,7 @@ function SignUp() {
                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                 className: "text-gray-400 text-center mt-6",
                                 children: [
-                                    "Already using Open PRO? ",
+                                    "Already using Cosmopole? ",
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_link__WEBPACK_IMPORTED_MODULE_1___default()), {
                                         href: "/signin",
                                         className: "text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out",

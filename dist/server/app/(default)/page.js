@@ -1756,7 +1756,7 @@ function Zigzag() {
 ;// CONCATENATED MODULE: ./app/(default)/page.tsx
 
 const metadata = {
-    title: "Home - Open PRO",
+    title: "Home - Cosmopole",
     description: "Page description"
 };
 
